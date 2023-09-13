@@ -17,7 +17,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Abit about my self",
+    title: "About Myself",
     aboutme: "Knowledgeable developer with expertise in building web and mobile applications from scratch. With over 2.8+ years of experience, I possess advanced skills in React.js, JavaScript, and related technologies. I excel in analyzing and managing projects, consistently meeting deadlines and delivering high-quality work. Proficient in HTML, CSS, Redux, and Material UI, I create visually appealing and user-friendly interfaces. Known for my ability to work well under pressure, I strive for excellence in every software development endeavor."
 };
 const worktimeline = [{
