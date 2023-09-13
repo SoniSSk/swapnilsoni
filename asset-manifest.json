@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapnilsoni/static/css/main.1353e6df.css",
+    "main.js": "/swapnilsoni/static/js/main.cc3bceb3.js",
+    "static/media/KuldeepSoni_React.pdf": "/swapnilsoni/static/media/KuldeepSoni_React.12c06d7dd338f1acf5fd.pdf",
+    "static/media/kuldeep_s.png": "/swapnilsoni/static/media/kuldeep_s.1ff5d01ab6e549d97929.png",
+    "index.html": "/swapnilsoni/index.html",
+    "main.1353e6df.css.map": "/swapnilsoni/static/css/main.1353e6df.css.map",
+    "main.cc3bceb3.js.map": "/swapnilsoni/static/js/main.cc3bceb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1353e6df.css",
+    "static/js/main.cc3bceb3.js"
+  ]
+}
