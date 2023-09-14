@@ -174,7 +174,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "kuldeepapply@gmail.com",
+    YOUR_EMAIL: "kuldeepsoniapply@gmail.com",
     YOUR_FONE: "+91-9716626438, +91-8960044346",
     description: "Experienced web and mobile app developer with 2.8+ years' expertise in React.js, JavaScript, HTML, CSS, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
     // creat an emailjs.com account 
