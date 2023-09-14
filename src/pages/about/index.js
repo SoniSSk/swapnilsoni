@@ -47,7 +47,7 @@ export const About = () => {
                     <tr key={i}>
                       <th scope="row">{data.jobtitle}</th>
                       <td>
-                        {/* <a href={data.companyUrl} target="_blank">{data.where}</a> */}
+                        <a href={data.companyUrl} target="_blank">{data.where}</a>
                       </td>
                       <td>{data.date}</td>
                     </tr>
@@ -108,7 +108,7 @@ export const About = () => {
                     }}
                   >
                     <h5 className="service__title">{data.title}</h5>
-                    {/* <a target="_blank" href={data.link}> {data.link}</a> */}
+                    <a target="_blank" href={data.link}> {data.link}</a>
                   </div>
 
                   <div

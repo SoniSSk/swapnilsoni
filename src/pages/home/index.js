@@ -6,12 +6,15 @@ import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
 import kuldeeps from "../../assets/images/kuldeep_s.png";
 import { About } from "../about";
+import { ContactUs } from "../contact";
 
 export const Home = () => {
 
   return (
     <HelmetProvider>
-      <section id="home" className="home">
+      <section id="home" className="home"
+
+      >
         <Helmet>
           <meta charSet="utf-8" />
           <title> {meta.title}</title>
@@ -67,6 +70,14 @@ export const Home = () => {
         </div>
       </section>
       <About />
+      <ContactUs />
+      <div
+        style={{
+          height: "80px"
+        }}
+      >
+
+      </div>
     </HelmetProvider>
   );
 };

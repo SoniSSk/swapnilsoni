@@ -85,25 +85,25 @@ const skills = [{
 ];
 
 const services = [{
-    title: "AI Educator",
+    title: "AI Educator (Divami Designs Labs Pvt. Ltd.)",
     link: "https://aieducator.com/",
     tech: "React.js, Redux, Material UI, Typescript, HTML, CSS.",
     description: "AI Educator: Revolutionizing e-learning for personalized, inclusive education. Seamlessly integrating into school and beyond, our platform caters to each student's unique needs for a convenient, effective, and enjoyable learning experience."
 },
 {
-    title: "Right Data (RDT.ai)",
+    title: "Right Data (Divami Designs Labs Pvt. Ltd.)",
     link: "https://www.getrightdata.com/",
     tech: "React.js, Redux, Material UI, JavaScript, HTML, CSS, Unit Testing, Jest, Git, Jira.",
     description: "RightData is a comprehensive Data Product Platform featuring no-code tools to connect, cleanse, prepare, and make data accurate and actionable. It begins with DataFactory, offering easy data engineering with drag-and-drop, supporting various data sources.",
 },
 {
-    title: "NFTically Marketplace",
+    title: "NFTically Marketplace (NFTically)",
     link: "https://nftically.com/",
     tech: "React.js, Redux, JavaScript, HTML, CSS, Php, Git, Jira, Bootstrap.",
     description: "NFTICALLY: B2B SaaS for customizable NFT stores. Empowers celebs, influencers, gamers, clubs, and enterprises. User-friendly controls for total platform management, no tech expertise needed.",
 },
 {
-    title: "Ezylegal",
+    title: "Ezylegal (Ezylegal)",
     link: "https://ezylegal.in/",
     tech: "Next.js, Redux, JavaScript, HTML, CSS, Php, Git, Jira, Chakra UI.",
     description: "ezyLegal: AI-driven legal tech platform enhancing accessibility and transparency. Connects clients with lawyers, offering clear services and standard pricing. Aiming to serve underserved Indians, prioritizing customer satisfaction to lead in legal services.",

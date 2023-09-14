@@ -20,7 +20,8 @@ const Headermain = () => {
   return (
     <>
       <header className="fixed-top site__header">
-        <div className="d-flex align-items-center justify-content-between">
+        <div className="d-flex align-items-center justify-content-between mainco"
+        >
           <Link className="navbar-brand nav_ac" to="/">
             {logotext}
           </Link>
@@ -66,7 +67,7 @@ const Headermain = () => {
             <p className="copyright m-0">copyright __ {logotext}</p>
           </div>
         </div>
-      </header>
+      </header >
       <div className="br-top"></div>
       <div className="br-bottom"></div>
       <div className="br-left"></div>
