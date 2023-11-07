@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/swapnilsoni/static/css/main.b4232886.css",
-    "main.js": "/swapnilsoni/static/js/main.7dcc967d.js",
+    "main.js": "/swapnilsoni/static/js/main.5e608f19.js",
     "static/media/kuldeep_s.png": "/swapnilsoni/static/media/kuldeep_s.1ff5d01ab6e549d97929.png",
     "static/media/kuldeep_soni_react.pdf": "/swapnilsoni/static/media/kuldeep_soni_react.64e739087c544a030778.pdf",
     "index.html": "/swapnilsoni/index.html",
     "main.b4232886.css.map": "/swapnilsoni/static/css/main.b4232886.css.map",
-    "main.7dcc967d.js.map": "/swapnilsoni/static/js/main.7dcc967d.js.map"
+    "main.5e608f19.js.map": "/swapnilsoni/static/js/main.5e608f19.js.map"
   },
   "entrypoints": [
     "static/css/main.b4232886.css",
-    "static/js/main.7dcc967d.js"
+    "static/js/main.5e608f19.js"
   ]
 }
