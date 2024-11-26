@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: 'React Developer',
         second: "Front-End Developer",
-        third: "Software Engineer",
+        third: "Senior Software Engineer",
         forth: "MERM Stack Developer",
     },
     description: "Experienced web and mobile app developer with 4+ years' expertise in React.js, Next.js, Typescript, JavaScript, HTML, CSS, Tailwind, Jotai, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
