@@ -12,13 +12,13 @@ const introdata = {
         third: "Software Engineer",
         forth: "MERM Stack Developer",
     },
-    description: "Experienced web and mobile app developer with 2.8+ years' expertise in React.js, JavaScript, HTML, CSS, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
+    description: "Experienced web and mobile app developer with 4+ years' expertise in React.js, Next.js, Typescript, JavaScript, HTML, CSS, Tailwind, Jotai, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "About Myself",
-    aboutme: "Knowledgeable developer with expertise in building web and mobile applications from scratch. With over 2.8+ years of experience, I possess advanced skills in React.js, JavaScript, and related technologies. I excel in analyzing and managing projects, consistently meeting deadlines and delivering high-quality work. Proficient in HTML, CSS, Redux, and Material UI, I create visually appealing and user-friendly interfaces. Known for my ability to work well under pressure, I strive for excellence in every software development endeavor."
+    aboutme: "Knowledgeable developer with expertise in building web and mobile applications from scratch. With over 4+ years of experience, I possess advanced skills in React.js, JavaScript, and related technologies. I excel in analyzing and managing projects, consistently meeting deadlines and delivering high-quality work. Proficient in HTML, CSS, Redux, and Material UI, I create visually appealing and user-friendly interfaces. Known for my ability to work well under pressure, I strive for excellence in every software development endeavor."
 };
 const worktimeline = [{
     jobtitle: "Software Engineer",
@@ -65,7 +65,7 @@ const skills = [{
     value: 100,
 },
 {
-    name: "Material UI / Bootstrap",
+    name: "Material UI / Tailwind",
     value: 100,
 },
 {
@@ -176,7 +176,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "kuldeepsoniapply@gmail.com",
     YOUR_FONE: "+91-9716626438, +91-8960044346",
-    description: "Experienced web and mobile app developer with 2.8+ years' expertise in React.js, JavaScript, HTML, CSS, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
+    description: "Experienced web and mobile app developer with 4+ years' expertise in React.js, JavaScript, HTML, CSS, Redux, and Material UI. Skilled in project management, deadline adherence, and delivering top-notch interfaces.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_9woe8d3",
